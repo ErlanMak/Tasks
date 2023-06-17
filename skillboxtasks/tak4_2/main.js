@@ -54,6 +54,7 @@
 
 
 // let result;
+
 const stroka = "Привет, мир!";
 
 let masStroka = stroka.split('');
